@@ -2,6 +2,8 @@
 ### ECBS 5146 SQL and Different Shapes of Data: Term project 2
 #### Authros: Elene Zuroshvili, Hamza Dhich, Nurbek Bektursyn, Matyas Kovacs
 
+Welcome to the second term project for the ECBS 5146 course, *SQL and Different Shapes of Data*. This project is designed to synthesize and apply the concepts learned during the course by creating a data product suitable for analysis. The goal is to combine datasets, enrich them, and build a complete data pipeline, demonstrating our technical skills and creativity.  
+
 The repository contains following artifacts:
 1. MySQL World Database 
 2. total-government-expenditure-on-education-gdp.csv
